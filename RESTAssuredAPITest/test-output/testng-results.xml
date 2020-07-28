@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9012" started-at="2020-07-28T17:12:33 PKT" finished-at="2020-07-28T17:12:42 PKT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9012" started-at="2020-07-28T17:12:33 PKT" finished-at="2020-07-28T17:12:42 PKT">
+      <class name="datadriventestcases.Test_DeleteRequest">
+        <test-method status="PASS" signature="testAPI(int)[pri:0, instance:datadriventestcases.Test_DeleteRequest@6c49835d]" name="testAPI" duration-ms="3544" started-at="2020-07-28T17:12:33 PKT" data-provider="DeleteData" finished-at="2020-07-28T17:12:37 PKT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+        <test-method status="PASS" signature="testAPI(int)[pri:0, instance:datadriventestcases.Test_DeleteRequest@6c49835d]" name="testAPI" duration-ms="1816" started-at="2020-07-28T17:12:37 PKT" data-provider="DeleteData" finished-at="2020-07-28T17:12:39 PKT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23422]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+        <test-method status="PASS" signature="testAPI(int)[pri:0, instance:datadriventestcases.Test_DeleteRequest@6c49835d]" name="testAPI" duration-ms="1814" started-at="2020-07-28T17:12:39 PKT" data-provider="DeleteData" finished-at="2020-07-28T17:12:40 PKT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+        <test-method status="PASS" signature="testAPI2(int)[pri:0, instance:datadriventestcases.Test_DeleteRequest@6c49835d]" name="testAPI2" duration-ms="1794" started-at="2020-07-28T17:12:40 PKT" finished-at="2020-07-28T17:12:42 PKT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI2 -->
+      </class> <!-- datadriventestcases.Test_DeleteRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
