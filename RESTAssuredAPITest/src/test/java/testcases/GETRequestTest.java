@@ -30,6 +30,7 @@ public class GETRequestTest {
 		
 	}
 
+	// Methods
 	private RestAssured given() {
 		// TODO Auto-generated method stub
 		return null;
