@@ -1,1 +1,1 @@
-# RestAssured API test with TestNG and Maven
+RestAssured API testing with TestNG and Maven
